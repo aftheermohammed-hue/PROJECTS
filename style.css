@@ -69,7 +69,7 @@ section{
     padding: 10rem 9% 2rem;
 }
 .Home{
-    background: url(image/bearded-black-man-wearing-suit-felt-hat.jpg) no-repeat;
+    background: url(bearded-black-man-wearing-suit-felt-hat.jpg) no-repeat;
     background-size: cover;
     background-position: center;
     height: 100vh;
@@ -558,4 +558,5 @@ span{
 }
 
  
+
  
